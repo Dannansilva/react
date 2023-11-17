@@ -19,7 +19,7 @@ function App() {
       <h2>counter value {counter} </h2>
       <button 
       onClick={addvalue}
-      >add value</button>
+      >add value</button>{" " }
       <button
       onClick={removevalue}
       >remove value</button>
